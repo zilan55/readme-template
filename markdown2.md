@@ -50,9 +50,9 @@ __for bold__
 
 ### Task list
 
--[x] Task1  
--[x] Task2  
-   -[] Task2.1
+[x] Task1  
+[x] Task2  
+   [] Task2.1
 
 <br/>
 
@@ -69,8 +69,9 @@ https://github.com/
 
 
 ### Table
-
-| Zilan | | anzilan58@gmail.com |  
-| Zilan | | anzilan58@gmail.com |  
-| Zilan | | anzilan58@gmail.com |
+| Name | Email |  
+| ---- | | ----- |  
+| Zilan | anzilan58@gmail.com |  
+| Zilan | anzilan58@gmail.com |  
+| Zilan | anzilan58@gmail.com |
 
